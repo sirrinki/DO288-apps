@@ -19,6 +19,7 @@ echo "---> Creating info page"
 echo "Page built on $DATE" >> ./info.html
 echo "Proudly served by Apache HTTP Server version $HTTPD_VERSION" >> ./info.html
 echo `date +%F`: This is the best loooooooove story >> info2.html
+echo `date +%F`: This is the best loooooooove storrrrrrryyyyy >> /opt/app-root/src/info3.html
 
 ######## CUSTOMIZATION ENDS HERE ############
 
